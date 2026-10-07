@@ -1,0 +1,24 @@
+ader> Page/section header
+<nav> Navigation links
+<main> Main content
+<section> Thematic grouping
+<article> Self-contained content
+<aside> Sidebar/related content
+<footer> Page/section footer
+<div> Generic block container
+<span> Generic inline container
+Attributes (Common)
+id — unique identifier
+class — CSS class (reusable)
+style — inline CSS
+src, href, alt, title
+target="_blank" — open in new tab
+disabled, required, readonly, checked
+Comments
+Character Entities
+Entity Renders as
+&lt; <
+&gt; >
+&amp; &
+&copy; ©
+&nbsp; (space)
